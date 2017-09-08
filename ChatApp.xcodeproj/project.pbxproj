@@ -12,6 +12,7 @@
 		5FF5F6371F623DFB008CCAE2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5FF5F6351F623DFB008CCAE2 /* Main.storyboard */; };
 		5FF5F6391F623DFB008CCAE2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5FF5F6381F623DFB008CCAE2 /* Assets.xcassets */; };
 		5FF5F63C1F623DFB008CCAE2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5FF5F63A1F623DFB008CCAE2 /* LaunchScreen.storyboard */; };
+		5FF5F6441F6243E2008CCAE2 /* Auth.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5FF5F6431F6243E2008CCAE2 /* Auth.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		5FF5F6381F623DFB008CCAE2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5FF5F63B1F623DFB008CCAE2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5FF5F63D1F623DFB008CCAE2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5FF5F6431F6243E2008CCAE2 /* Auth.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Auth.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				5FF5F6311F623DFB008CCAE2 /* AppDelegate.swift */,
 				5FF5F6331F623DFB008CCAE2 /* ViewController.swift */,
 				5FF5F6351F623DFB008CCAE2 /* Main.storyboard */,
+				5FF5F6431F6243E2008CCAE2 /* Auth.storyboard */,
 				5FF5F6381F623DFB008CCAE2 /* Assets.xcassets */,
 				5FF5F63A1F623DFB008CCAE2 /* LaunchScreen.storyboard */,
 				5FF5F63D1F623DFB008CCAE2 /* Info.plist */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5FF5F6441F6243E2008CCAE2 /* Auth.storyboard in Resources */,
 				5FF5F63C1F623DFB008CCAE2 /* LaunchScreen.storyboard in Resources */,
 				5FF5F6391F623DFB008CCAE2 /* Assets.xcassets in Resources */,
 				5FF5F6371F623DFB008CCAE2 /* Main.storyboard in Resources */,
@@ -304,6 +308,7 @@
 				5FF5F6421F623DFB008CCAE2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
